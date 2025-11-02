@@ -4,7 +4,7 @@ public class Main {
         if (args.length > 0) {
             System.out.println("Args:");
             for (String a : args) {
-                System.out.println(" - " + a);
+                System.out.println("    - " + a);
             }
         }
     }
